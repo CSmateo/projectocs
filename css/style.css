@@ -25,3 +25,12 @@ h2{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.cont-mammals{
+    background-color: orange;
+    color: maroon;
+    width: 450px;
+    height: 750px;
+    align-items: justify;
+    margin-left: 20%;
+    font-family: fantasy;
+}
