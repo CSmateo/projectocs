@@ -7,6 +7,7 @@ h2{
 .nav-bar{
     background-color: darkgreen;
     padding: 0.2%;
+    box-shadow: 5px;
 }
 
 .nb-links{
@@ -22,12 +23,54 @@ h2{
     height: 500px;
     align-items: justify;
     margin-left: 20%;
+    box-shadow: 2px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .cont-mammals{
     background-color: orange;
     color: maroon;
+    width: 450px;
+    height: 750px;
+    align-items: justify;
+    margin-left: 20%;
+    font-family: fantasy;
+    box-shadow: 2px;
+}
+
+.def-reptiles{
+    background-color: lawngreen;
+    color: midnightblue;
+    width: 300px;
+    height: 500px;
+    align-items: justify;
+    margin-left: 20%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.cont-reptiles{
+    background-color: lawngreen;
+    color: midnightblue;
+    width: 450px;
+    height: 750px;
+    align-items: justify;
+    margin-left: 20%;
+    font-family: fantasy;
+}
+
+.def-birds{
+    background-color: cornflowerblue;
+    color: black;
+    width: 300px;
+    height: 500px;
+    align-items: justify;
+    margin-left: 20%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.cont-birds{
+    background-color: cornflowerblue;
+    color: black;
     width: 450px;
     height: 750px;
     align-items: justify;
